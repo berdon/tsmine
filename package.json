@@ -1,6 +1,6 @@
 {
   "name": "tsmine",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "src/index.js",
   "author": "Austin Hanson <berdon@gmail.com>",
   "license": "MIT",
